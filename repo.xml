@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>作者主页</name>
+			<url>https://sephilex.com</url>
+			<iconclass>fa fa-rss</iconclass>
+		</link>
+		<link>
+			<name>Sephilex 的越狱源</name>
+			<url>https://apt.sephilex.com</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
