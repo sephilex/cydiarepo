@@ -13,28 +13,20 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>打开微信"我"->"设置"，发现新大陆</description>
+		<description>打开微信"我的"->"设置"，发现新大陆</description>
 	</descriptionlist>
 	<screenshots>
                 <screenshot>
                         <description>功能总览</description>
-                        <image>wxtweak00.png</image>
-                </screenshot>
-                <screenshot>
-                        <description>微信小助手</description>
                         <image>wxtweak01.png</image>
                 </screenshot>
-		<screenshot>
-                        <description>红包助手</description>
-                        <image>wxtweak02.png</image>
-                </screenshot>
-		<screenshot>
-                        <description>跳一跳助手</description>
-                        <image>wxtweak03.png</image>
+                <screenshot>
+                        <description>功能总览2</description>
+                        <image>wxtweak01.png</image>
                 </screenshot>
         </screenshots>
-        <!-- <changelog>
+        <changelog>
 		<change>Initial release</change>
-	</changelog> -->
+	</changelog>
 	<links></links>
 </package>
