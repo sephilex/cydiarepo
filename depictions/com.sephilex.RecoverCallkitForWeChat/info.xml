@@ -13,16 +13,12 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>打开微信"我的"->"设置"，发现新大陆</description>
+		<description>恢复微信的 Callkit</description>
 	</descriptionlist>
 	<screenshots>
                 <screenshot>
-                        <description>功能总览</description>
-                        <image>wxtweak01.png</image>
-                </screenshot>
-                <screenshot>
-                        <description>功能总览2</description>
-                        <image>wxtweak01.png</image>
+                        <description>效果如图</description>
+                        <image>rc01.png</image>
                 </screenshot>
         </screenshots>
         <changelog>
