@@ -1,7 +1,7 @@
 <package>
-	<id>com.sephilex.wxtweak</id>
-	<name>微信增强</name>
-	<version>0.1-3</version>
+	<id>com.sephilex.tbtweak</id>
+	<name>淘宝优惠券</name>
+	<version>0.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
