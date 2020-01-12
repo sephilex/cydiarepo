@@ -1,0 +1,28 @@
+<package>
+	<id>com.sephilex.elecoupon</id>
+	<name>饿了么红包</name>
+	<version>0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>饿了么自动抢最大红包</description>
+	</descriptionlist>
+	<screenshots>
+                <screenshot>
+                        <description>效果如图</description>
+                        <image>rc02.jpg</image>
+                </screenshot>
+        </screenshots>
+        <changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
